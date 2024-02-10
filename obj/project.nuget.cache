@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7mQ2FO8U/mK0+vsc5/UCB3+HdL3rispekUndU3eawp6nMAZCHrIWHfLxuInjel6E4kKxOb76Fik3E1FJiEi4rA==",
+  "success": true,
+  "projectFilePath": "C:\\_JOOK\\coding\\s24\\pcl1\\fsharp\\PclFSharpProject\\PclFSharpProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jook\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
