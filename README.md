@@ -1,4 +1,4 @@
-# Dev Container for PCL F# Programming dotnet:8.0
+# Dev Container for PCL F# Programming dotnet 8.0
 
 
 1. Open Visual Studio Code 
